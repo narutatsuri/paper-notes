@@ -1,0 +1,12 @@
+# arXiv categories to watch for brand-new papers, one per line.
+#
+# Everything posted to these in the last few weeks is fetched and scored
+# against your library's own vocabulary; only the closest handful reach the
+# judge. Widening this costs a little time, not accuracy — the scoring is
+# what decides relevance.
+
+cs.LG
+cs.CL
+cs.AI
+cs.CR
+stat.ML
