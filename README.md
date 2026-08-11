@@ -4,7 +4,8 @@ Reading notes, one markdown file per paper, written by hand.
 
 Each note records the claim in my own words, what actually convinced me,
 what would have to be true for it to be wrong, and — most usefully —
-what I did not understand. Frontmatter carries the arXiv id and the
+what I did not understand. Frontmatter carries the paper's key — an arXiv id, or an ACL Anthology id
+or hand-made key for work arXiv never had — and the
 references extracted from the PDF, which is what the relation graph is
 built from.
 
