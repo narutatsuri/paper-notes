@@ -8,5 +8,11 @@
 # keeps citing. Nothing here is downloaded automatically.
 
 Owain Evans
+Tatsunori Hashimoto
+Zico Kolter
+Nicholas Carlini
+Tomek Korbak
+Joe Benton
+Eric Wallace
 
 # Add more below. Lines starting with # are ignored.
