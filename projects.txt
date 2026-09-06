@@ -1,0 +1,7 @@
+# Projects — one per line, "<colour> <name>".
+# Colours: red orange yellow green teal blue purple pink
+# A line without a colour word is still a project; it gets the least-used
+# colour when the app loads it. Papers reference these by name in their
+# frontmatter ("project: …"), so renaming a line orphans its papers' tags.
+
+green RSI Safety
