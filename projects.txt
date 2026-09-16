@@ -6,3 +6,4 @@
 
 green RSI Safety
 yellow Chunky RL
+red SPAR
