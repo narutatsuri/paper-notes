@@ -5,6 +5,6 @@
 # frontmatter ("project: …"), so renaming a line orphans its papers' tags.
 
 orange RSI Safety
-yellow Chunky RL
+teal Chunky RL
 red SPAR
 teal Safety Skillmix
