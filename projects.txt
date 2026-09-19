@@ -8,3 +8,4 @@ orange RSI Safety
 green Chunky RL
 red SPAR
 teal Safety Skillmix
+yellow Agent Swarm
