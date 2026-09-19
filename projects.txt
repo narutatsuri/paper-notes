@@ -4,7 +4,7 @@
 # colour when the app loads it. Papers reference these by name in their
 # frontmatter ("project: …"), so renaming a line orphans its papers' tags.
 
-green RSI Safety
+orange RSI Safety
 yellow Chunky RL
 red SPAR
 teal Safety Skillmix
