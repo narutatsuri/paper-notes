@@ -10,4 +10,6 @@ published: 2026-09-15
 
 ## Summary
 
+Theory research and AI. Many other problems besides Navier-Stokes have fallen 
+
 ## Questions/Comments
