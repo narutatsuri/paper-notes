@@ -9,4 +9,6 @@ url: https://alignment.anthropic.com/2026/reward-seeker/
 
 ## Summary
 
+Narrow training that induces reward hacking “generalizes” to misaligned behaviors and a desire to satisfy the grader or achieve a high score on the task
+
 ## Questions/Comments
